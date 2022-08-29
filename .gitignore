@@ -1,0 +1,8 @@
+venv/
+log.html
+*.exe
+output.xml
+report.html
+*.png
+
+
